@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdni.iconscout.com/illustration/premium/thumb/computer-illustration-download-in-svg-png-gif-file-formats--desktop-working-place-office-table-desk-account-pack-design-development-illustrations-3806641.png" width="180px" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGp5OWRpcGJvbmh1eW5ieXB6eHowY3Jrcml2eWtiZ2NyYnl1dDkxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SHjOSDkKZ18qOHA5B5/giphy.gif" width="300px" />
   
   
   <h1>Hello, I'm <span style="color:#4A90E2">Athyab Showqi</span> 👋</h1>
@@ -32,7 +32,7 @@
 ### 🔍 GitHub Insights
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AthyabShowqi&show_icons=true&theme=dracula" width="48%" height="50%"/>  
+  <img src="https://github-readme-stats.vercel.app/api?username=AthyabShowqi&show_icons=true&hide_border=true&bg_color=00000000&text_color=3498db" width="48%"/>
 </p>
 
 ---
